@@ -4,27 +4,24 @@
 
 Hi there!
 
-[About Me](/about-me) [Blog](/blog) [My Projects](/projects) [Minecraft World Map](/world-map)
+[About Me](https://pekly.neocities.org/about-me) ! [Blog](https://pekly.neocities.org/blog) ! [My Projects](https://pekly.neocities.org/projects) ! [Minecraft World Map](https://pekly.neocities.org/world-map) ! [Website home](https://pekly.neocities.org)
 
 [Contact](mailto:oodhuu57@gmail.com)
 
 Good to see you, bruh!🧱
 ========================
 
-Hey!, this is Pekly's website.
+Hey!, this is Pekly's github md.
 
 A dude who loves gaming, Tech, and building cool stuff.
 
 
+<img src="https://pekly.neocities.org/myserver.jpg" alt="pekly cover" width="300"/>
 
-![MongolVibes banner](/myserver.jpg)
 
-🎵 Jam to this Minecraft vibe 🎵
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/ggZQ_SUPw44 "Everything Is AWESOME")
+<img src="https://0oxo0.neocities.org/mmd.gif" alt="Miku" width="200"/>
 
-![Mike Singing](https://0oxo0.neocities.org/mmd.gif)
-
-Inspired by [this awesome page](https://0oxo0.neocities.org)!
+Website is Inspired by [this awesome page](https://0oxo0.neocities.org)!
 
 © Made with 💙 by Pekuri.
 
