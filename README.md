@@ -21,8 +21,6 @@ A dude who loves gaming, Tech, and building cool stuff.
 
 <img src="https://0oxo0.neocities.org/mmd.gif" alt="Miku" width="200"/>
 
-Website is Inspired by [this awesome page](https://0oxo0.neocities.org)!
+[Website](https://pekly.neocities.org) is Inspired by [this awesome page](https://0oxo0.neocities.org)!
 
 © Made with 💙 by Pekuri.
-
-I just made this website, and it's very basic, so some things might not work.
