@@ -8,7 +8,7 @@ Hi there!
 
 [Contact](mailto:oodhuu57@gmail.com)
 
-Good to see you, bruh!🧱
+Welcome to THE ARCADE!
 ========================
 
 Hey!, this is Pekly's github md.
