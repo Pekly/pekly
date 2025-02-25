@@ -19,10 +19,3 @@ A dude who loves gaming, Tech, and building cool stuff.
 
 
 <img src="https://pekly.neocities.org/myserver.jpg" alt="pekly cover" width="300"/>
-
-
-<img src="https://0oxo0.neocities.org/mmd.gif" alt="Miku" width="200"/>
-
-[Website](https://pekly.neocities.org) Inspired by [this awesome page](https://0oxo0.neocities.org)!
-
-© Made with 💙 by Pekuri.
